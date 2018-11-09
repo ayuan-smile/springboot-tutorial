@@ -1,6 +1,6 @@
-package com.sitech.boot;
+package com.smile.boot;
 
-import com.sitech.boot.config.MyProps;
+import com.smile.boot.config.MyProps;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.stereotype.Controller;

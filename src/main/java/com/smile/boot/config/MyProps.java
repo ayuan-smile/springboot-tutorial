@@ -1,4 +1,4 @@
-package com.sitech.boot.config;
+package com.smile.boot.config;
 
 import java.util.ArrayList;
 import java.util.HashMap;

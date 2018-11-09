@@ -1,4 +1,4 @@
-package com.sitech;
+package com.smile;
 
 import static org.junit.Assert.assertTrue;
 
