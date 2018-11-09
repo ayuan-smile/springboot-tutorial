@@ -1,2 +1,3 @@
 # readme
-test rebase local.
+local:test rebase local.
+merged:test rebase
